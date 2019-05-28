@@ -1,0 +1,2089 @@
+<Panel Height="{Property Size}" Width="{Property Size}" ux:Class="FAIcon">
+    <string ux:Property="Icon" />
+    <int ux:Property="Size" />
+    <float4 ux:Property="FontColor" />
+ <WhileString Value="{Property Icon}" Equals="500px">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf26e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="adjust">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf042;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="adn">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf170;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="align_center">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf037;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="align_justify">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf039;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="align_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf036;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="align_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf038;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="amazon">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf270;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="ambulance">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0f9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="anchor">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf13d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="android">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf17b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="angellist">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf209;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="angle_double_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf103;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="angle_double_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf100;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="angle_double_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf101;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="angle_double_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf102;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="angle_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf107;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="angle_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf104;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="angle_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf105;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="angle_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf106;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="apple">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf179;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="archive">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf187;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="area_chart">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1fe;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrow_circle_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0ab;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrow_circle_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0a8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrow_circle_o_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf01a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrow_circle_o_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf190;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrow_circle_o_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf18e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrow_circle_o_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf01b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrow_circle_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0a9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrow_circle_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0aa;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrow_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf063;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrow_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf060;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrow_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf061;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrow_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf062;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrows">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf047;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrows_alt">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0b2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrows_h">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf07e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="arrows_v">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf07d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="asterisk">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf069;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="at">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1fa;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="automobile">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1b9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="backward">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf04a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="balance_scale">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf24e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="ban">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf05e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bank">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf19c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bar_chart">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf080;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bar_chart_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf080;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="barcode">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf02a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bars">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="battery_0">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf244;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="battery_1">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf243;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="battery_2">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf242;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="battery_3">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf241;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="battery_4">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf240;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="battery_empty">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf244;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="battery_full">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf240;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="battery_half">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf242;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="battery_quarter">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf243;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="battery_three_quarters">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf241;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bed">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf236;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="beer">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0fc;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="behance">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1b4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="behance_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1b5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bell">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0f3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bell_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0a2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bell_slash">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1f6;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bell_slash_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1f7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bicycle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf206;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="binoculars">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1e5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="birthday_cake">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1fd;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bitbucket">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf171;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bitbucket_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf172;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bitcoin">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf15a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="black_tie">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf27e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bluetooth">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf293;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bluetooth_b">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf294;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bold">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf032;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bolt">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bomb">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1e2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="book">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf02d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bookmark">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf02e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bookmark_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf097;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="briefcase">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0b1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="btc">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf15a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bug">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf188;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="building">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1ad;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="building_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0f7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bullhorn">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0a1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bullseye">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf140;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="bus">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf207;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="buysellads">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf20d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cab">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1ba;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="calculator">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1ec;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="calendar">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf073;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="calendar_check_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf274;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="calendar_minus_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf272;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="calendar_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf133;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="calendar_plus_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf271;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="calendar_times_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf273;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="camera">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf030;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="camera_retro">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf083;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="car">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1b9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="caret_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0d7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="caret_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0d9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="caret_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0da;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="caret_square_o_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf150;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="caret_square_o_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf191;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="caret_square_o_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf152;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="caret_square_o_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf151;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="caret_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0d8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cart_arrow_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf218;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cart_plus">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf217;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cc">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf20a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cc_amex">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1f3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cc_diners_club">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf24c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cc_discover">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1f2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cc_jcb">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf24b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cc_mastercard">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1f1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cc_paypal">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1f4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cc_stripe">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1f5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cc_visa">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1f0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="certificate">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0a3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="chain">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="chain_broken">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf127;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="check">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf00c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="check_circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf058;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="check_circle_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf05d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="check_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf14a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="check_square_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf046;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="chevron_circle_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf13a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="chevron_circle_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf137;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="chevron_circle_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf138;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="chevron_circle_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf139;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="chevron_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf078;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="chevron_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf053;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="chevron_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf054;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="chevron_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf077;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="child">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1ae;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="chrome">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf268;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf111;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="circle_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf10c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="circle_o_notch">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1ce;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="circle_thin">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1db;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="clipboard">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0ea;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="clock_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf017;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="clone">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf24d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="close">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf00d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cloud">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cloud_download">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0ed;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cloud_upload">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0ee;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cny">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf157;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="code">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf121;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="code_fork">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf126;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="codepen">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1cb;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="codiepie">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf284;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="coffee">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0f4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cog">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf013;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cogs">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf085;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="columns">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0db;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="comment">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf075;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="comment_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="commenting">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf27a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="commenting_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf27b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="comments">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf086;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="comments_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e6;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="compass">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf14e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="compress">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf066;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="connectdevelop">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf20e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="contao">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf26d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="copy">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="copyright">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1f9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="creative_commons">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf25e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="credit_card">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf09d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="credit_card_alt">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf283;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="crop">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf125;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="crosshairs">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf05b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="css3">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf13c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cube">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1b2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cubes">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1b3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cut">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="cutlery">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0f5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="dashboard">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="dashcube">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf210;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="database">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="dedent">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf03b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="delicious">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1a5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="desktop">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf108;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="deviantart">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1bd;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="diamond">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf219;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="digg">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1a6;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="dollar">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf155;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="dot_circle_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf192;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="download">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf019;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="dribbble">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf17d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="dropbox">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf16b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="drupal">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1a9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="edge">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf282;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="edit">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf044;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="eject">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf052;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="ellipsis_h">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf141;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="ellipsis_v">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf142;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="empire">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="envelope">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="envelope_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf003;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="envelope_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf199;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="eraser">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf12d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="eur">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf153;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="euro">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf153;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="exchange">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0ec;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="exclamation">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf12a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="exclamation_circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf06a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="exclamation_triangle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf071;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="expand">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf065;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="expeditedssl">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf23e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="external_link">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf08e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="external_link_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf14c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="eye">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf06e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="eye_slash">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf070;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="eyedropper">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1fb;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="facebook">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf09a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="facebook_f">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf09a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="facebook_official">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf230;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="facebook_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf082;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="fast_backward">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf049;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="fast_forward">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf050;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="fax">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1ac;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="feed">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf09e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="female">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf182;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="fighter_jet">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0fb;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf15b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_archive_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c6;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_audio_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_code_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_excel_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_image_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_movie_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf016;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_pdf_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_photo_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_picture_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_powerpoint_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_sound_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_text">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf15c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_text_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0f6;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_video_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_word_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="file_zip_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1c6;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="files_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="film">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf008;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="filter">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0b0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="fire">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf06d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="fire_extinguisher">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf134;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="firefox">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf269;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="flag">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf024;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="flag_checkered">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf11e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="flag_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf11d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="flash">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="flask">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="flickr">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf16e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="floppy_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="folder">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf07b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="folder_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf114;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="folder_open">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf07c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="folder_open_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf115;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="font">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf031;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="fonticons">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf280;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="fort_awesome">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf286;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="forumbee">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf211;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="forward">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf04e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="foursquare">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf180;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="frown_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf119;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="futbol_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1e3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="gamepad">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf11b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="gavel">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="gbp">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf154;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="ge">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="gear">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf013;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="gears">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf085;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="genderless">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf22d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="get_pocket">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf265;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="gg">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf260;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="gg_circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf261;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="gift">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf06b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="git">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="git_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="github">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf09b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="github_alt">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf113;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="github_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf092;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="gittip">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf184;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="glass">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf000;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="globe">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0ac;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="google">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1a0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="google_plus">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0d5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="google_plus_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0d4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="google_wallet">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1ee;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="graduation_cap">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf19d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="gratipay">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf184;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="group">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="h_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0fd;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hacker_news">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_grab_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf255;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_lizard_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf258;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_o_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0a7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_o_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0a5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_o_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0a4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_o_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0a6;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_paper_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf256;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_peace_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf25b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_pointer_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf25a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_rock_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf255;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_scissors_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf257;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_spock_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf259;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hand_stop_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf256;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hashtag">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf292;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hdd_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0a0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="header">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1dc;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="headphones">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf025;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="heart">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf004;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="heart_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf08a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="heartbeat">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf21e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="history">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1da;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="home">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf015;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hospital_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0f8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hotel">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf236;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hourglass">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf254;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hourglass_1">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf251;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hourglass_2">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf252;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hourglass_3">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf253;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hourglass_end">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf253;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hourglass_half">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf252;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hourglass_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf250;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="hourglass_start">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf251;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="houzz">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf27c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="html5">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf13b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="i_cursor">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf246;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="ils">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf20b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="image">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf03e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="inbox">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf01c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="indent">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf03c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="industry">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf275;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="info">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf129;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="info_circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf05a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="inr">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf156;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="instagram">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf16d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="institution">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf19c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="internet_explorer">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf26b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="intersex">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf224;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="ioxhost">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf208;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="italic">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf033;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="joomla">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1aa;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="jpy">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf157;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="jsfiddle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1cc;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="key">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf084;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="keyboard_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf11c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="krw">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf159;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="language">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1ab;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="laptop">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf109;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="lastfm">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf202;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="lastfm_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf203;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="leaf">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf06c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="leanpub">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf212;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="legal">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="lemon_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf094;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="level_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf149;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="level_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf148;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="life_bouy">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1cd;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="life_buoy">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1cd;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="life_ring">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1cd;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="life_saver">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1cd;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="lightbulb_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0eb;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="line_chart">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf201;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="link">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="linkedin">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="linkedin_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf08c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="linux">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf17c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="list">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf03a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="list_alt">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf022;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="list_ol">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0cb;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="list_ul">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0ca;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="location_arrow">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf124;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="lock">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf023;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="long_arrow_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf175;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="long_arrow_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf177;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="long_arrow_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf178;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="long_arrow_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf176;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="magic">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0d0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="magnet">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf076;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mail_forward">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf064;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mail_reply">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf112;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mail_reply_all">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf122;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="male">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf183;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="map">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf279;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="map_marker">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf041;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="map_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf278;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="map_pin">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf276;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="map_signs">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf277;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mars">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf222;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mars_double">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf227;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mars_stroke">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf229;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mars_stroke_h">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf22b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mars_stroke_v">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf22a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="maxcdn">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf136;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="meanpath">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf20c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="medium">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf23a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="medkit">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0fa;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="meh_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf11a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mercury">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf223;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="microphone">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf130;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="microphone_slash">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf131;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="minus">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf068;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="minus_circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf056;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="minus_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf146;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="minus_square_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf147;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mixcloud">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf289;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mobile">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf10b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mobile_phone">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf10b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="modx">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf285;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="money">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0d6;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="moon_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf186;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mortar_board">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf19d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="motorcycle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf21c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="mouse_pointer">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf245;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="music">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf001;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="navicon">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="neuter">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf22c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="newspaper_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1ea;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="object_group">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf247;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="object_ungroup">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf248;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="odnoklassniki">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf263;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="odnoklassniki_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf264;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="opencart">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf23d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="openid">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf19b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="opera">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf26a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="optin_monster">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf23c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="outdent">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf03b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pagelines">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf18c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="paint_brush">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1fc;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="paper_plane">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="paper_plane_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="paperclip">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c6;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="paragraph">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1dd;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="paste">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0ea;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pause">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf04c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pause_circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf28b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pause_circle_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf28c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="paw">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1b0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="paypal">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1ed;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pencil">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf040;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pencil_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf14b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pencil_square_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf044;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="percent">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf295;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="phone">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf095;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="phone_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf098;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="photo">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf03e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="picture_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf03e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pie_chart">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf200;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pied_piper">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1a7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pied_piper_alt">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1a8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pinterest">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0d2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pinterest_p">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf231;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="pinterest_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0d3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="plane">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf072;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="play">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf04b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="play_circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf144;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="play_circle_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf01d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="plug">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1e6;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="plus">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf067;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="plus_circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf055;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="plus_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0fe;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="plus_square_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf196;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="power_off">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf011;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="print">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf02f;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="product_hunt">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf288;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="puzzle_piece">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf12e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="qq">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d6;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="qrcode">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf029;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="question">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf128;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="question_circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf059;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="quote_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf10d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="quote_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf10e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="ra">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="random">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf074;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="rebel">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="recycle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1b8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="reddit">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1a1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="reddit_alien">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf281;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="reddit_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1a2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="refresh">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf021;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="registered">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf25d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="remove">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf00d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="renren">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf18b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="reorder">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="repeat">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf01e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="reply">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf112;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="reply_all">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf122;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="retweet">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf079;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="rmb">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf157;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="road">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf018;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="rocket">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf135;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="rotate_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="rotate_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf01e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="rouble">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf158;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="rss">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf09e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="rss_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf143;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="rub">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf158;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="ruble">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf158;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="rupee">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf156;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="safari">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf267;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="save">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="scissors">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="scribd">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf28a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="search">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf002;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="search_minus">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf010;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="search_plus">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf00e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sellsy">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf213;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="send">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="send_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="server">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf233;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="share">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf064;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="share_alt">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1e0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="share_alt_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1e1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="share_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf14d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="share_square_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf045;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="shekel">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf20b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sheqel">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf20b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="shield">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf132;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="ship">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf21a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="shirtsinbulk">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf214;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="shopping_bag">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf290;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="shopping_basket">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf291;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="shopping_cart">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf07a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sign_in">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf090;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sign_out">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf08b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="signal">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf012;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="simplybuilt">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf215;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sitemap">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="skyatlas">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf216;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="skype">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf17e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="slack">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf198;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sliders">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1de;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="slideshare">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1e7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="smile_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf118;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="soccer_ball_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1e3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sort">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0dc;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sort_alpha_asc">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf15d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sort_alpha_desc">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf15e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sort_amount_asc">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf160;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sort_amount_desc">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf161;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sort_asc">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0de;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sort_desc">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0dd;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sort_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0dd;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sort_numeric_asc">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf162;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sort_numeric_desc">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf163;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sort_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0de;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="soundcloud">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1be;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="space_shuttle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf197;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="spinner">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf110;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="spoon">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1b1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="spotify">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1bc;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="square_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf096;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="stack_exchange">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf18d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="stack_overflow">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf16c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="star">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf005;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="star_half">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf089;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="star_half_empty">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf123;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="star_half_full">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf123;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="star_half_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf123;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="star_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf006;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="steam">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1b6;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="steam_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1b7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="step_backward">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf048;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="step_forward">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf051;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="stethoscope">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0f1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sticky_note">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf249;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sticky_note_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf24a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="stop">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf04d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="stop_circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf28d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="stop_circle_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf28e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="street_view">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf21d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="strikethrough">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0cc;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="stumbleupon">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1a4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="stumbleupon_circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1a3;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="subscript">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf12c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="subway">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf239;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="suitcase">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0f2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="sun_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf185;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="superscript">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf12b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="support">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1cd;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="table">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0ce;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tablet">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf10a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tachometer">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tag">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf02b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tags">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf02c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tasks">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0ae;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="taxi">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1ba;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="television">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf26c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tencent_weibo">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d5;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="terminal">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf120;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="text_height">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf034;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="text_width">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf035;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="th">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf00a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="th_large">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf009;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="th_list">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf00b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="thumb_tack">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf08d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="thumbs_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf165;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="thumbs_o_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf088;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="thumbs_o_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf087;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="thumbs_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf164;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="ticket">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf145;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="times">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf00d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="times_circle">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf057;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="times_circle_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf05c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tint">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf043;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="toggle_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf150;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="toggle_left">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf191;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="toggle_off">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf204;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="toggle_on">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf205;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="toggle_right">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf152;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="toggle_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf151;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="trademark">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf25c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="train">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf238;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="transgender">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf224;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="transgender_alt">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf225;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="trash">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1f8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="trash_o">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf014;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tree">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1bb;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="trello">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf181;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tripadvisor">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf262;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="trophy">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf091;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="truck">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0d1;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="try">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf195;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tty">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1e4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tumblr">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf173;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tumblr_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf174;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="turkish_lira">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf195;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="tv">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf26c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="twitch">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1e8;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="twitter">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf099;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="twitter_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf081;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="umbrella">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="underline">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0cd;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="undo">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0e2;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="university">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf19c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="unlink">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf127;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="unlock">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf09c;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="unlock_alt">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf13e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="unsorted">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0dc;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="upload">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf093;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="usb">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf287;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="usd">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf155;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="user">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf007;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="user_md">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0f0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="user_plus">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf234;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="user_secret">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf21b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="user_times">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf235;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="users">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0c0;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="venus">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf221;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="venus_double">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf226;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="venus_mars">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf228;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="viacoin">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf237;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="video_camera">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf03d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="vimeo">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf27d;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="vimeo_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf194;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="vine">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1ca;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="vk">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf189;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="volume_down">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf027;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="volume_off">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf026;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="volume_up">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf028;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="warning">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf071;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="wechat">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="weibo">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf18a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="weixin">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d7;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="whatsapp">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf232;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="wheelchair">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf193;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="wifi">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1eb;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="wikipedia_w">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf266;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="windows">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf17a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="won">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf159;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="wordpress">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf19a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="wrench">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf0ad;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="xing">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf168;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="xing_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf169;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="y_combinator">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf23b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="y_combinator_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="yahoo">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf19e;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="yc">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf23b;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="yc_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1d4;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="yelp">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf1e9;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="yen">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf157;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="youtube">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf167;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="youtube_play">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf16a;</Text>
+</WhileString>
+ <WhileString Value="{Property Icon}" Equals="youtube_square">
+  <Text Font="fa" Alignment="Center" FontSize="{Property Size}" Color="{Property FontColor}">&#xf166;</Text>
+</WhileString>
+
+
+</Panel>

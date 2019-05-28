@@ -1,0 +1,39 @@
+<App>
+    <JavaScript>
+        var Observable = require("FuseJS/Observable");
+        var icon = Observable('euro');
+
+        var fnChange = function() {
+            icon.value = 'exclamation_circle';
+        }
+        module.exports = {
+            icon: icon,
+            change: fnChange
+        }
+    </JavaScript>
+    <ScrollView>
+        <StackPanel>
+            <Grid ColumnCount="4" Padding="10, 10, 10, 10" Margin="10, 10, 10, 10">
+                <FAIcon Size="48" Margin="7" Icon="adn" FontColor="#000" />
+                <FAIcon Size="48" Margin="7" Icon="amazon" FontColor="#000" />
+                <FAIcon Size="48" Margin="7" Icon="align_right" FontColor="#000" />
+                <FAIcon Size="48" Margin="7" Icon="android" FontColor="#000" />
+                <FAIcon Size="48" Margin="7" Icon="angle_right" FontColor="#000" />
+                <FAIcon Size="48" Margin="7" Icon="area_chart" FontColor="#000" />
+                <FAIcon Size="48" Margin="7" Icon="arrow_circle_o_left" FontColor="#000" />
+                <FAIcon Size="48" Margin="7" Icon="chrome" FontColor="#000" />
+            </Grid>
+            <Panel Padding="30" Margin="10, 10, 10, 10" Background="#FFEAB4">
+                <FAIcon Size="64" Margin="7" Icon="{icon}" FontColor="#000" />
+            </Panel>
+            <Panel Padding="10, 10, 10, 30">
+                <Panel Background="#000" Padding="15">
+                    <Text Value="Click Me" Color="#fff" TextAlignment="Center" FontSize="24" />
+                    <Clicked>
+                        <Callback Handler="{change}" />
+                    </Clicked>
+                </Panel>
+            </Panel>
+        </StackPanel>
+    </ScrollView>
+</App>

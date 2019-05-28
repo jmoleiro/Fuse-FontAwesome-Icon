@@ -1,0 +1,3 @@
+<Panel ux:Class="Fonts">
+    <Font File="fontawesome-webfont.ttf" ux:Global="fa" />  
+</Panel>
